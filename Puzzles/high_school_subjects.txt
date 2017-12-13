@@ -1,0 +1,21 @@
+High School Subjects
+AP European History
+AP Human Geography
+AP Phsyics
+AP Statistics
+Calculus AB
+Calculus BC
+Pre Calculus
+Algebra 2
+Geometry
+English I
+English II
+English III
+Spanish I
+Spanish II
+Spanish III
+Spanish IV
+French I
+French II
+French III
+French IV
